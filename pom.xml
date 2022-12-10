@@ -249,7 +249,7 @@
     <properties>
 
         <!-- spring -->
-        <spring.version>4.0.6.RELEASE</spring.version>
+        <spring.version>6.0.0</spring.version>
         <spring.security>3.2.5.RELEASE</spring.security>
 
         <!-- jersey -->
